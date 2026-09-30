@@ -80,14 +80,12 @@ Projects include:
 
 ## Current Work
 
-I am currently expanding the Hupfen Security Lab with projects focused on:
+With detection engineering and security telemetry modernization completed, my next focus for the Hupfen Security Lab is security operations automation, building on the management workstation prepared in Mission 4.
 
-- Detection development and validation
-- Structured security telemetry
-- Splunk alerting and investigation
-- Threat hunting workflows
-- Incident response documentation
-- Security engineering and control testing
+- Python 3 and PowerShell 7 scripting
+- Repeatable security operations and administrative workflows
+- API integrations and workflow automation
+- Operational validation and documented, repeatable processes
 
 ---
 
